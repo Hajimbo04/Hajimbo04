@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 Game dev student with a passion in data analytics
 
 
