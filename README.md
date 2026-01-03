@@ -16,9 +16,6 @@ Game Dev student with a strong background in Data Analytics and Web Development.
 - [ ] Master SQL for Data Analysis
 - [ ] Learn to implement data analytics within game development (e.g., player balancing)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhdhazimabdhalim/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhdhazim13035@gmail.com) 
-
 ## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Hajimbo04&theme=default&hide_border=false)<br/>
 
