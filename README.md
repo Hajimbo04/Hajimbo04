@@ -2,7 +2,7 @@
 
 **Game Dev | Data Analyst | Frontend**
 
-Game Dev student with a strong background in Data Analytics and Web Development. I build functional games, data-driven insights, and web applications with a focus on clean, working code.
+I'm a game dev student with a strong background in data analytics and web dev. I build functional games, data-driven insights, and web applications with a focus on clean, working code.
 
 ## 🚀 Featured Projects
 
