@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hazim! 
 
-**Game Dev | Data Analyst | Full-Stack**
+**Game Dev | Data Analyst | Frontend**
 
 Game Dev student with a strong background in Data Analytics and Web Development. I build functional games, data-driven insights, and web applications with a focus on clean, working code.
 
