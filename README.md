@@ -1,6 +1,6 @@
 ## Hi, I'm Hazim! 
 
-**Game Dev | Data Analyst | Frontend**
+**Game Dev & Data Analyst**
 
 I love developing games and visualize data.
 
