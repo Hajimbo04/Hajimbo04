@@ -1,9 +1,16 @@
-## Hi, I'm Hazim! 
+## Hi, I'm Hazim! 👋
 
-**Game Dev & Data Analyst**
+**Interactive Systems Developer**
 
-I love developing games and visualize data.
+I build games, interactive web experiences, and player-focused systems using gameplay programming, web technologies, and analytics.
 
-## 2026 Goals:
-- [ ] Publish 6 projects.
-- [ ] Catch up with my projects backlog
+## Currently Focused On
+- Game jams & experimental projects
+- Web-based interactive experiences
+- Gameplay systems & telemetry
+
+## 2026 Goals
+- [ ] Publish 6 polished projects
+- [ ] Build reusable game/web systems
+- [ ] Create analytics-driven case studies
+- [ ] Reduce project backlog
